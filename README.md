@@ -1,10 +1,15 @@
 # Mango-110m-PoC
 
 >**Date of attack:** October 11, 2022, 22:08 → 22:53 UTC
+>
 >**Protocol:** Mango Markets on Solana (program `mv3ekLzLbnVPNxjSKvqBpU3ZeZXPQdEC3bp5MDEBG68`)
+>
 >**Attacker:** Avraham Eisenberg (publicly self-identified)
+>
 >**Loss:** ~$117M of user funds drained, ~$115M of bad debt left in the protocol
+>
 >**Class:** Oracle price manipulation + leveraged perpetual abuse — an *economic* exploit, not a code bug
+>
 
 ---
 

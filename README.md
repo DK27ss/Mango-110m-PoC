@@ -374,3 +374,14 @@ Post-mortem cross-check:
 - Mango v3 source code: <https://github.com/blockworks-foundation/mango-v3>
 - Eisenberg DOJ indictment (S.D.N.Y., 2022-12-26):
   *USA v. Eisenberg*, 22-mj-10337
+
+---
+
+>
+>Company : https://blockraider.xyz/
+>
+>Community : https://discord.gg/Vqqt7jyRr7
+>
+>Disclosure : https://t.me/blockraider_alerts_bot
+
+<img width="161" height="51" alt="blockraider" src="https://github.com/user-attachments/assets/dc86222a-b5fb-49e8-9a9d-350973b7521d" />
